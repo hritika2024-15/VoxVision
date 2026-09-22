@@ -1,0 +1,27 @@
+streamlit
+# Utilitites 
+numpy
+pandas
+
+# FACE RECOGNITION
+scikit-learn
+dlib-bin # used for face recognition
+git+https://github.com/ageitgey/face_recognition_models # Pre-trained face recognition models used for generating face embeddings
+
+setuptools<70.0.0 #helps in setting up installation from github
+
+
+supabase
+bcrypt
+
+
+
+segno #qr code generation
+pillow #Image loading, processing, and manipulation
+
+
+
+
+
+librosa  # Audio analysis and feature extraction
+resemblyzer  # Generates speaker embeddings for voice recognition
