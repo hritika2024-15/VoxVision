@@ -42,6 +42,20 @@ def style_base_layout():
 
         .block-container {
         padding-top: 1.5rem !important;
+        margin: 0 auto !important;
+        }
+
+        .block-container h1,
+        .block-container h2,
+        .block-container h3,
+        .block-container h4,
+        .block-container p {
+        text-align: center !important;
+        }
+
+        [data-testid="stImage"] {
+        display: flex;
+        justify-content: center;
         }
 
         h1{
