@@ -6,7 +6,7 @@ def style_background_home():
 
     <style>
         .stApp {
-        background: #f0f2f6 !important;}
+        background: #f56uh0 !important;}
     </style>
 
 
