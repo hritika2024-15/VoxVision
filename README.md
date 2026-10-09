@@ -508,13 +508,6 @@ sequenceDiagram
 - [ ] **Parent & Admin SMS/Email Alerts**: Automated notifications when student attendance drops below the 75% threshold.
 - [ ] **Multi-Language Voice Support**: Fine-tuned acoustic models for multi-accented speech and varied roll call phrases.
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) - feel free to use, modify, and distribute for academic and commercial use.
-
----
 
 ## 👥 Authors & Acknowledgments
 
