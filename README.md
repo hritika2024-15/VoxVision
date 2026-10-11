@@ -320,7 +320,6 @@ sequenceDiagram
 
 ## 👥 Authors & Acknowledgments
 
-- **Hritika Prasad** ([@hritika2024-15](https://github.com/hritika2024-15)) - *Architecture, Core Pipelines & Full Stack Development*
 - Models & open-source libraries:
   - [Davis King's dlib](http://dlib.net/) & [Adam Geitgey's face_recognition_models](https://github.com/ageitgey/face_recognition_models)
   - [Resemblyzer (Resemble AI)](https://github.com/resemble-ai/Resemblyzer) for speaker verification embeddings
